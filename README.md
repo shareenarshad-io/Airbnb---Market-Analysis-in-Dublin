@@ -9,3 +9,5 @@ Based on the findings the new city manager will try to boost the number and qual
 
 what the gaps are between guest demand and host supply that the new city manager could plug to increase the number of bookings in Dublin,
 what other data would be useful to have to deepen the analysis and understanding.
+
+This project aims to answer these above questions. 
